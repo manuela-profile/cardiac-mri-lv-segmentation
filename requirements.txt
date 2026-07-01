@@ -1,0 +1,11 @@
+torch
+lightning
+segmentation-models-pytorch
+torchinfo
+matplotlib
+numpy
+scikit-image
+ruff
+ipywidgets
+SimpleITK
+albumentations
